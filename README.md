@@ -1,7 +1,7 @@
 # `<component-name>` Web Component
 
 > [!NOTE]
-> **Thanks for using this template!** You'll first want to find-and-replace instances of `component-name` and `Describe <component-name> here…`. If you're not me, you'll also want to update author information in `package.json` and `LICENSE`, replace instances of `jgarber` and `jgarber623`, and update a bunch of URLs.
+> **Thanks for using this template!** You'll first want to find-and-replace instances of `component-name`, `ComponentName`, and `Describe <component-name> here…`. If you're not me, you'll also want to update author information in `package.json` and `LICENSE`, replace instances of `jgarber` and `jgarber623`, and update a bunch of URLs.
 >
 > Once you've done all that, you can remove this note and starting building your Web Component.
 
