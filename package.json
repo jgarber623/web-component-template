@@ -9,11 +9,7 @@
   "homepage": "https://github.com/jgarber623/component-name",
   "bugs": "https://github.com/jgarber623/component-name/issues",
   "license": "MIT",
-  "author": {
-    "name": "Jason Garber",
-    "email": "jason@sixtwothree.org",
-    "url": "https://sixtwothree.org"
-  },
+  "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
   "files": [
     "component-name.js",
     "example/*"
