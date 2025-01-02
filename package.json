@@ -21,7 +21,7 @@
   },
   "repository": "github:jgarber623/component-name",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "npx eslint .",
     "start": "npx http-server ."
   },
   "devDependencies": {
