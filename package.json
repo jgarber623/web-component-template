@@ -10,12 +10,12 @@
   "bugs": "https://github.com/jgarber623/component-name/issues",
   "license": "MIT",
   "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
+  "type": "module",
   "files": [
     "component-name.js",
     "example/*"
   ],
-  "type": "module",
-  "main": "component-name.js",
+  "exports": "./component-name.js",
   "directories": {
     "example": "example"
   },
