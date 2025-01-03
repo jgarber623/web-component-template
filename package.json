@@ -19,7 +19,7 @@
   "directories": {
     "example": "example"
   },
-  "repository": "github:jgarber623/component-name",
+  "repository": "https://github.com/jgarber623/component-name",
   "scripts": {
     "lint": "npx eslint .",
     "start": "npx http-server ."
@@ -28,6 +28,7 @@
     "@jgarber/eslint-config": "*"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   }
 }
